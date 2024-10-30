@@ -1,0 +1,11 @@
+smiles,CIDs,ROMol
+CC(=O)NC1=CC=C(C=C1)O,1983,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0099430>
+CNC1=CC=C(C=C1)O,5931,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0099DD0>
+CC(=O)NC1=CC(=CC=C1)O,12124,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0099E40>
+CC(=O)NC1=CC=CC=C1O,11972,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195580>
+CC(=O)NC1=CC=C(C=C1)OS(=O)(=O)O,83939,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195890>
+C1=CC=C(C=C1)NC2=CC=C(C=C2)O,31208,<rdkit.Chem.rdchem.Mol object at 0x000001BCE01959E0>
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)NC1=CC=C(C=C1)O,6604822,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195820>
+C1=CC(=CC=C1NC2=CC=C(C=C2)O)O,74461,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195190>
+CCCC(=O)NC1=CC=C(C=C1)O,66874,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195B30>
+CC(C)(C)OC(=O)NC1=CC=C(C=C1)O,2756771,<rdkit.Chem.rdchem.Mol object at 0x000001BCE0195AC0>
